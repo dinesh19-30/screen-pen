@@ -222,8 +222,8 @@ Webcam input
 💾 Auto-save drawings
 
 ## 👨‍💻 Author
-Developed by Dinesh19-30
+Developed by https://github.com/dinesh19-30/screen-pen/tree/main
 Inspired by the concept of AI Air Drawing — real-time creativity powered by hand-tracking.
 
 ## 📜 License
-MIT License © 2025 Dinesh19-30
+MIT License © 2025 https://github.com/dinesh19-30/screen-pen/tree/main
